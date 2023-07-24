@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\bin\Debug\Dethi02.exe.config
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\bin\Debug\Dethi02.exe
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\bin\Debug\Dethi02.pdb
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.frmSanPham.resources
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.exe
+C:\Users\ASUS\Desktop\Study\NguyenMinhQuan_5943\Dethi02\Dethi02\obj\Debug\Dethi02.pdb
